@@ -1,0 +1,83 @@
+[
+	{ 
+        "Name" : "hjkkllmmmmmùml",
+		"type" : "unkown",
+		"info" : 0,
+		"limit": 20,
+		"key"  : "375652-wildAcad-PSXO1S7H",
+		"token": true,
+        "valid": false
+    },
+	{
+        "Name" : "You, the living",
+		"type" : "movie",
+		"info" : 0,
+		"key"  : "375652-wildAcad-PSXO1S7H",
+		"token": true,
+        "limit": 5,
+        "valid": true
+    },
+    {
+        "Name" : "Rihana",
+		"type" : "music",
+		"info" : 0,
+		"limit": 1,
+		"key"  : "375652-wildAcad-PSXO1S7H",
+		"token": true,
+        "valid": true
+    },
+	 {
+        "Name" : "Just mercy",
+		"type" : "movie",
+		"info" : 1,
+		"limit": 1,
+		"key"  : "375652-wildAcad-PSXO1S7H",
+		"token": true,
+        "valid": true
+    },
+	 {
+        "Name" : "Norse Mythology",
+		"type" : "book",
+		"info" : 0,
+		"limit": 1,
+		"key"  : "375652-wildAcad-PSXO1S7H",
+		"token": true,
+        "valid": true
+    },
+	 {
+        "Name" : "S4 League",
+		"type" : "Game",
+		"info" : 1,
+		"limit": 1,
+		"key"  : "375652-wildAcad-PSXO1S7H",
+		"token": true,
+        "valid": true
+    },
+	{
+        "Name" : "Nightline",
+		"type" : "show",
+		"info" : 0,
+		"limit": 1,
+		"key"  : "375652-wildAcad-PSXO1S7H",
+		"token": true,
+        "valid": true
+    },
+	{
+        "Name" : "Legend",
+		"type" : "movie",
+		"info" : 1,
+        "limit": 10,
+		"key"  : "375652-wildAcad-PSXO1S7H",
+		"token": true,
+        "valid": true
+    },
+	{
+        "Name" : "Legend",
+		"type" : "book",
+		"info" : 0,
+		"limit": 1,
+		"key"  : "375652-wildAcad-FFFF2F3D",
+		"token": false,
+        "valid": true
+    }    
+]
